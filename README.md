@@ -1,5 +1,5 @@
 
-# 🚀 Employee Salary Forecasting System
+# 🚀 Employee Salary Prediction
 
 ## 📘 Overview
 
